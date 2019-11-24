@@ -1,0 +1,80 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "odoo Application",
+            "body": " Odoo, anciennement OpenERP et Tiny ERP, est initialement un progiciel open-source de gestion intégré comprenant de très nombreux modules."
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile Application",
+            "body": " is a type of application software designed to run on a mobile device, such as a smartphone or tablet computer."
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Web Application",
+            "body": "Une application web désigne un logiciel applicatif hébergé sur un serveur et accessible via un navigateur web."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/images/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "/images/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "/images/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "/images/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "/images/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "/images/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "/images/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "/images/portfolio-img8.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook",
+            "name" : "Sohaib siyaha"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter",
+            "name" : "www.twitter.com"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest",
+            "name" : "Sohaib Odoo"
+        }
+    ] 
+}
