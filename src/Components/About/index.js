@@ -7,17 +7,22 @@ const About = () => {
             <div class="container">
                 <AboutInfo>
                     <InfoTitle><Span>This is</Span> Me</InfoTitle>
-                    <InfoDir> Odoo Developer</InfoDir>
+                    <InfoDir> JavaScript Developer </InfoDir>
                     <InfoDesc>
                     <InfoDesc>
-                    What is the Odoo ?
+                    What is ReactJS developer ?
                     </InfoDesc>
-                     Odoo est le programme de gestion d’entreprise le plus évolutif et le plus installé au monde
-                     grâce à ses applications répondant à tous les besoins d’une entreprise,
-                      de la gestion de la relation client à la création de sites web et d’e-commerce,
-                       en passant par la production, la gestion d’inventaire, la comptabilité, l’ERP etc.,
-                        le tout parfaitement intégré. C’est la première fois qu’un éditeur de logiciels parvient à atteindre
-                         un tel niveau de fonctionnalités..
+                    React (also known as React.js or ReactJS) is an open-source JavaScript library for building user interfaces.
+                     It is maintained by Facebook and a community of individual developers and companies.
+
+                    React can be used as a base in the development of
+                     single-page or mobile applications. However,
+                      React is only concerned with rendering data to the DOM, 
+                       so creating React applications usually requires the use of
+                        additional libraries for state management and routing. Redux and React Router
+                    are respective examples of such libraries. 
+
+              
                     </InfoDesc>
                 </AboutInfo>
             </div>

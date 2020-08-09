@@ -3,7 +3,7 @@ import { FooterSection , FooterDesc} from './style.js'
 const Footer = () => {
     return (
         <FooterSection>
-            <FooterDesc> copyright &copy; 2019 by Sohaib profile </FooterDesc>
+            <FooterDesc> copyright &copy; 2020 Allache Abdelmalek profile </FooterDesc>
         </FooterSection>
     )
 }

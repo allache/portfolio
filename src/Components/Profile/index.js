@@ -3,34 +3,30 @@ import './style.css'
 const Profile = () => {
     return (
         <div class="profile_skills">
-        <div class="container">
+        <div class="container">portfolio
             <div class="profile">
                 <h2 class="profile-title"><span>My </span>Profile</h2>
                 <ul class="profile-list">
                     <li class="profile-item">
                         <span>Name</span>
-                        Klalib Sohaib
+                        Allache Abdelmalek
                     </li>
                     <li class="profile-item">
                         <span>Birthday</span>
-                        15/02/1993
+                        15/09/1991
                     </li>
                     <li class="profile-item">
                         <span>Address</span>
-                        Blida , algerie
+                        kolea , algerie
                     </li>
                     <li class="profile-item">
                         <span>Phone</span>
-                        06 72 25 36 79
-                    </li>
+                        05 53 18 80 59   </li>
                     <li class="profile-item">
                         <span>Email</span>
-                        siyahasohaib22@gmail.com
+                        allacheabdelmalek@gmail.com
                     </li>
-                    <li class="profile-item">
-                        <span>Website</span>
-                        <span class="web">www.google.com</span>
-                    </li>
+                 
                 </ul>
             </div>
             
@@ -41,7 +37,7 @@ const Profile = () => {
                 </p>
                 <div class="bar">
                     <span class="title">javascript</span>
-                    <span class="perc">100%</span>
+                    <span class="perc">75%</span>
                     <div class="parent">
                         <span class="sp1"></span>
                     </div>
@@ -49,14 +45,14 @@ const Profile = () => {
                 
                 <div class="bar">
                     <span class="title">python</span>
-                    <span class="perc">90%</span>
+                    <span class="perc">20%</span>
                     <div class="parent">
                         <span class="sp2"></span>
                     </div>
                 </div>
                 
                 <div class="bar">
-                    <span class="title">odoo 12</span>
+                    <span class="title">Delphi</span>
                     <span class="perc">80%</span>
                     <div class="parent">
                         <span class="sp3"></span>
@@ -64,25 +60,35 @@ const Profile = () => {
                 </div>
                 <div class="bar">
                     <span class="title">html/css</span>
-                    <span class="perc">100%</span>
+                    <span class="perc">90%</span>
                     <div class="parent">
-                        <span class="sp1"></span>
+                        <span class="sp4"></span>
                     </div>
                 </div>
                 <div class="bar">
                     <span class="title">React js</span>
                     <span class="perc">80%</span>
                     <div class="parent">
-                        <span class="sp3"></span>
+                        <span class="sp5"></span>
                     </div>
                 </div>
                 <div class="bar">
-                    <span class="title">flutter</span>
-                    <span class="perc">80%</span>
+                    <span class="title">JavaEE</span>
+                    <span class="perc">75%</span>
                     <div class="parent">
-                        <span class="sp3"></span>
+                        <span class="sp6"></span>
                     </div>
                 </div>
+
+                <div class="bar">
+                    <span class="title">Nodejs</span>
+                    <span class="perc">75%</span>
+                    <div class="parent">
+                        <span class="sp7"></span>
+                    </div>
+                </div>
+
+
             </div>
             
         </div>

@@ -34,7 +34,7 @@
 
 .profile_skills .skills .skills-desc {
     font-size: 15px;
-    color: #888;
+    color:rgba(0,0,0,.9);
     line-height: 1.5;
     margin-bottom: 20px
 }
@@ -55,11 +55,11 @@
 }
 
 .profile_skills .skills .bar .parent {
-    height: 2px;
+    height: 10px;
     clear: both;
-    background: #f8f8f8;
+    background: rgba(0,123,255,.25);
     position: relative;
-    top: 5px
+    top: 10px
 }
 
 .profile_skills .skills .bar .parent span {
@@ -72,15 +72,27 @@
 }
 
 .profile_skills .skills .bar .parent span.sp1 {
-    width: 100%;
+    width: 75%;
 }
 
 .profile_skills .skills .bar .parent span.sp2 {
-    width: 90%;
+    width: 20%;
 }
 
 .profile_skills .skills .bar .parent span.sp3 {
-    width: 80%;
+    width: 70%;
+}
+.profile_skills .skills .bar .parent span.sp4 {
+    width: 60%;
+}
+.profile_skills .skills .bar .parent span.sp5 {
+    width: 40%;
+}
+.profile_skills .skills .bar .parent span.sp6 {
+    width: 20%;
+}
+.profile_skills .skills .bar .parent span.sp7 {
+    width: 20%;
 }
 
 .profile_skills .profile .profile-title,

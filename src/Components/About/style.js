@@ -1,10 +1,14 @@
 import styled from 'styled-components'
 export const AboutSection = styled.div`
-    height: 500px;
+    height: 600px;
+    
     background-image: url('images/about-bg.jpg');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed
+    background-image: url('images/about-bg.jpg');
+    background-position: left;
+    background-attachment: fixed;
+
+    background-size: 50%;
+background-repeat: no-repeat;
 `
 
 export const AboutInfo = styled.div`
