@@ -16,7 +16,7 @@ handleSubmit(e) {
     const { name, email, subject, message } = this.state
     let templateParams = {
       from_name: email,
-      to_name: 'sohaibkla@gmail.com',
+      to_name: 'allacheabdelmalek@gmail.com',
       subject: subject,
       message_html: message,
      }
