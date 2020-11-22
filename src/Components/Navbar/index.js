@@ -10,7 +10,7 @@ const Navbar = () => {
             <div className="container">
                 
                 <Logo>
-                    <LogoText>Abdelmalek 2 Profile</LogoText>
+                    <LogoText>Abdelmalek Profile</LogoText>
                 </Logo>
                 
                 <UlList>
@@ -19,7 +19,7 @@ const Navbar = () => {
                     <ListItem><Link exact className='anchor' to="/profile">Profile</Link></ListItem>
                     <ListItem><Link exact className='anchor' to="/portfolio">Portolio</Link></ListItem>
                     <ListItem><Link exact className='anchor' to="/about">About</Link></ListItem>
-                    <ListItem><Link className='anchor' to="/contact">Cont4645act</Link></ListItem>
+                    <ListItem><Link className='anchor' to="/contact">Contact</Link></ListItem>
                 </UlList>
                 
             </div>
