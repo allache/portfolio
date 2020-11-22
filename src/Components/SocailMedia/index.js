@@ -22,7 +22,17 @@ class SocailMedia extends React.Component {
 
         const socialList = social.map( (socialItem) => {
             return (
-                <Social item={socialItem.id} key={socialItem.id}>
+                <Social 
+                grid={{
+                    gutter:16,
+                    xs: '4',
+                    sm: '4',
+                    md: '1',
+                    lg: '9',
+                    xl: '3',
+                    xxl: '3',
+                  }}
+                 item={socialItem.id} key={socialItem.id}>
                     <Icon className={socialItem.icon}></Icon>
                     <SocialDesc>
                         <Span>{socialItem.title}</Span>

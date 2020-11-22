@@ -37,7 +37,7 @@ const Profile = () => {
                 </p>
                 <div class="bar">
                     <span class="title">javascript</span>
-                    <span class="perc">75%</span>
+                    <span class="perc">50%</span>
                     <div class="parent">
                         <span class="sp1"></span>
                     </div>
@@ -60,14 +60,14 @@ const Profile = () => {
                 </div>
                 <div class="bar">
                     <span class="title">html/css</span>
-                    <span class="perc">90%</span>
+                    <span class="perc">70%</span>
                     <div class="parent">
                         <span class="sp4"></span>
                     </div>
                 </div>
                 <div class="bar">
                     <span class="title">React js</span>
-                    <span class="perc">80%</span>
+                    <span class="perc">40%</span>
                     <div class="parent">
                         <span class="sp5"></span>
                     </div>
@@ -82,11 +82,18 @@ const Profile = () => {
 
                 <div class="bar">
                     <span class="title">Nodejs</span>
-                    <span class="perc">75%</span>
+                    <span class="perc">40%</span>
                     <div class="parent">
                         <span class="sp7"></span>
                     </div>
                 </div>
+                <div class="bar">
+                <span class="title">php laravel</span>
+                <span class="perc">15%</span>
+                <div class="parent">
+                    <span class="sp8"></span>
+                </div>
+            </div>
 
 
             </div>

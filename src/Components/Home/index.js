@@ -8,9 +8,16 @@ const Home = () => {
             <div className="container">
                 <HomeInformation>
                     <HomeTitle>Allache Abdelmalek</HomeTitle>
-                    <HomeInfo >Road to sinor Developer</HomeInfo>
+                    <HomeInfo >Road to junior/sinor Developer</HomeInfo>
                     <HomeDesc>
-                        Iam a professional <Span>Odoo developer</Span> and <Span>Front-End Developer</Span> and <Span>UX Designer</Span> creating modern and resposive designs to Web and Mobile. Let us work together. Thank you.
+                        Iam a person who just 
+                        It was a victim of the ancient education program
+                       But I am still sticking to the programming path and that is why 
+                       I am learning other languages such
+                        <Span> php laravel nodejs</Span> for backend 
+                       and for frontend is <Span> react js</Span>
+
+                         
                     </HomeDesc>
                     <HomeBtn>Let's Begin</HomeBtn>
                 </HomeInformation>

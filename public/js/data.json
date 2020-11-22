@@ -3,20 +3,20 @@
         {
             "id" : 1,
             "icon_name": "icon fa fa-tachometer fa-2x",
-            "title": "odoo Application",
-            "body": " Odoo, anciennement OpenERP et Tiny ERP, est initialement un progiciel open-source de gestion intégré comprenant de très nombreux modules."
+            "title": "gestion de stock",
+            "body": " develping gestion de stock with delphi"
         },
         {
             "id" : 2,
             "icon_name": "icon fa fa-chain fa-2x",
-            "title": "Mobile Application",
-            "body": " is a type of application software designed to run on a mobile device, such as a smartphone or tablet computer."
+            "title": "gestion de notification",
+            "body": " is a type of application software designed to run on a mobile device, such as a smartphone or tablet computer for sending notification."
         },
         {
             "id" : 3,
             "icon_name": "icon fa fa-bolt fa-2x",
-            "title": "Web Application",
-            "body": "Une application web désigne un logiciel applicatif hébergé sur un serveur et accessible via un navigateur web."
+            "title": "this is just test title ",
+            "body": "this is just test body"
         }
     ],
 
@@ -57,24 +57,26 @@
     "social" : [
         {
             "id": 1,
-            "icon" : "icon fa fa-facebook fa-lg",
+            "icon" : "icon fa fa-facebook-square fa_custom fa-2x",
             "title" : "Follow Me on",
             "body" : "Social Facebook",
-            "name" : "Sohaib siyaha"
+            "name" : "All.Abdelmalek"
         },
         {
             "id": 2,
-            "icon" : "icon fa fa-twitter fa-lg",
-            "title" : "Tweet Me on",
-            "body" : "Social twitter",
-            "name" : "www.twitter.com"
+            "icon" : "icon fa fa-linkedin-square fa-2x",
+            "title" : "Follow Me on",
+            "body" : "Social linkedin",
+            "name" : "allache-abdelmalek-942b10173"
         },
         {
             "id": 3,
-            "icon" : "icon fa fa-pinterest fa-lg",
-            "title" : "Pin Me on",
-            "body" : "Social Pinterest",
-            "name" : "Sohaib Odoo"
+            "icon" : "icon fa fa-instagram fa-2x",
+            "title" : "Follow Me on",
+            "body" : "Social instagram",
+            "name" : "@abdelmalek_allache"
         }
+     
+     
     ] 
 }

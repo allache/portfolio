@@ -12,7 +12,7 @@ const Portfolio = () => {
     const PortfolioImages = images.map( (imageItem) => {
         return (
             <ImageWrapper key={imageItem.id}>
-                <Image src={imageItem.image} alt="" />
+                <Image src={imageItem.image} alt="" width="161.4px" height="400.175px" />
                 <Overlay>
                     <OverlaySpan>
                         Show Image

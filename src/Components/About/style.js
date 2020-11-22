@@ -1,8 +1,6 @@
 import styled from 'styled-components'
 export const AboutSection = styled.div`
-    height: 600px;
-    
-    background-image: url('images/about-bg.jpg');
+    height: 600px; 
     background-image: url('images/about-bg.jpg');
     background-position: left;
     background-attachment: fixed;
