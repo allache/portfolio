@@ -7,7 +7,7 @@ const About = () => {
             <div class="container">
                 <AboutInfo>
                     <InfoTitle><Span>This is</Span> Me</InfoTitle>
-                    <InfoDir> Road to JavaScript Developer & php laravel  </InfoDir>
+                    <InfoDir> Road to senior JavaScript Developer & php laravel  </InfoDir>
                     <InfoDesc>
                     <InfoDesc>
                     What is ReactJS developer ?

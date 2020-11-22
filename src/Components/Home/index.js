@@ -7,6 +7,7 @@ const Home = () => {
         <HomeSection>
             <div className="container">
                 <HomeInformation>
+                <HomeInfo>Open this website on pc mode for better view ty </HomeInfo>
                     <HomeTitle>Allache Abdelmalek</HomeTitle>
                     <HomeInfo >Road to junior/sinor Developer</HomeInfo>
                     <HomeDesc>
