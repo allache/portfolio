@@ -12,8 +12,8 @@ const Home = () => {
                     <HomeInfo >Road to junior/sinor Developer</HomeInfo>
                     <HomeDesc>
                         Iam a person who just 
-                        It was a victim of the ancient education program
-                       But I am still sticking to the programming path and that is why 
+                        I was a victim of the old education program
+                         But I am still sticking to the coding path and that is why
                        I am learning other languages such
                         <Span> php laravel nodejs</Span> for backend 
                        and for frontend is <Span> react js</Span>
