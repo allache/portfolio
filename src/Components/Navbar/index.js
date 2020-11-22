@@ -10,7 +10,7 @@ const Navbar = () => {
             <div className="container">
                 
                 <Logo>
-                    <LogoText>Sohaib Profile</LogoText>
+                    <LogoText>Abdelmalek Profile</LogoText>
                 </Logo>
                 
                 <UlList>

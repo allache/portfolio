@@ -8,6 +8,8 @@
     "bootstrap": "^4.3.1",
     "emailjs-com": "^2.4.1",
     "font-awesome": "^4.7.0",
+    "g": "^2.0.1",
+    "netlify-cli": "^2.68.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-mail-form": "^2.0.2",
