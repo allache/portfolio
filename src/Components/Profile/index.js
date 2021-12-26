@@ -1,10 +1,14 @@
 import React  from 'react';
-import './style.css'
+import './style.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 const Profile = () => {
     return (
         <div class="profile_skills">
         <div class="container">portfolio
+        <div className="row">
+        <div className="col-sm-12">
             <div class="profile">
+           
                 <h2 class="profile-title"><span>My </span>Profile</h2>
                 <ul class="profile-list">
                     <li class="profile-item">
@@ -99,6 +103,9 @@ const Profile = () => {
             </div>
             
         </div>
+        </div>
+        </div>
+        
     </div>
     )
 }

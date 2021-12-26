@@ -15,6 +15,7 @@ import Portfolio from './Components/Portfolio'
 class App extends Component {
   render() {
     return (
+      <div class="container">
       <BrowserRouter>
         <Navbar />
         <Route exact path='/' component={Index} />
@@ -24,6 +25,7 @@ class App extends Component {
         <Route path='/about' component={About} />
         <Route path='/portfolio' component={Portfolio} />
       </BrowserRouter>
+      </div>
     )
   }
 }

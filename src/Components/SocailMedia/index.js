@@ -17,7 +17,6 @@ class SocailMedia extends React.Component {
     }
 
     render() {
-
         const {social } = this.state 
 
         const socialList = social.map( (socialItem) => {
