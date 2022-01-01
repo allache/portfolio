@@ -93,7 +93,7 @@ const Profile = () => {
                 </div>
                 <div class="bar">
                 <span class="title">php laravel</span>
-                <span class="perc">15%</span>
+                <span class="perc">10%</span>
                 <div class="parent">
                     <span class="sp8"></span>
                 </div>
