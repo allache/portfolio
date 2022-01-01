@@ -22,6 +22,7 @@ class App extends Component {
         <Route path='/contact' component={Contact} />
         <Route path='/profile' component={Profile} />
         <Route path='/work' component={Work} />
+        
         <Route path='/about' component={About} />
         <Route path='/portfolio' component={Portfolio} />
       </BrowserRouter>
