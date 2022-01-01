@@ -11,12 +11,12 @@ const Home = () => {
                     <HomeTitle>Allache Abdelmalek</HomeTitle>
                     <HomeInfo >Road to junior/sinor Developer</HomeInfo>
                     <HomeDesc>
-                        Iam a person who
+                         Iam a person who
                          was a victim of the old education program
                          But I am still sticking to the coding path and that is why
-                       I am learning other languagessuch
+                         I am learning other languages such
                         <Span>Nodejs</Span> for backend 
-                       and for frontend is <Span> React js</Span>
+                         and for frontend is <Span> React js</Span>
 
                          
                     </HomeDesc>
